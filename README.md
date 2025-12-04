@@ -21,7 +21,7 @@ Un jeu de devinette en C++ où l'ordinateur génère un nombre aléatoire entre 
 
 \`\`\`bash
 # 1. Cloner le dépôt
-git clone https://github.com/Espy-Tech/devine-le-nombre.git
+[git clone https://github.com/Espy-Tech/devine-le-nombre.git](https://github.com/Espy-Tech/Jeu-de-devinettes-de-nombres)
 
 # 2. Compiler le programme
 g++ -o devine-le-nombre Projet_de_devinette.cpp
