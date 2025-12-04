@@ -20,9 +20,8 @@ Un jeu de devinette en C++ où l'ordinateur génère un nombre aléatoire entre 
 ## 🚀 Installation et Exécution
 
 \`\`\`bash
-# 1. Cloner le dépôt
-[[git clone https://github.com/Espy-Tech/devine-le-nombre.git]((https://github.com/Espy-Tech))]
-
+## 📍 URL du Projet
+**Lien GitHub** : https://github.com/Espy-Tech
 # 2. Compiler le programme
 g++ -o devine-le-nombre Projet_de_devinette.cpp
 
