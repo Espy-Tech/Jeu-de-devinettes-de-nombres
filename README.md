@@ -22,6 +22,7 @@ Un jeu de devinette en C++ où l'ordinateur génère un nombre aléatoire entre 
 \`\`\`bash
 ## 📍 URL du Projet
 **Lien GitHub** : https://github.com/Espy-Tech
+https://roadmap.sh/projects/number-guessing-game
 # 2. Compiler le programme
 g++ -o devine-le-nombre Projet_de_devinette.cpp
 
